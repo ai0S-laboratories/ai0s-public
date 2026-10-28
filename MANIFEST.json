@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-26",
+  "files": [
+    {
+      "path": "AI0S-RUNTIME.0s",
+      "sha256": "3e1bda1bfb62ab8f446f0b7190887fc29df290c0aa0c723a8990ffecdff4bf4a"
+    },
+    {
+      "path": "AI0S-RUNTIME.0s.sig",
+      "sha256": "6e48f4f159ab74a55461b71c15baed3ebb04a00bf46e73071fb5d9162e3cbfde"
+    },
+    {
+      "path": "BOOTLOADER-V2-DE.md",
+      "sha256": "1767a7b9547a13fcf2596bc8b2418ca5fbbf2e029451d05fb0bd1dd28e5d8b83"
+    },
+    {
+      "path": "BOOTLOADER-V2-DE.md.sig",
+      "sha256": "3e7d90b0f452f7629f2a60484eeaba99d6d51097b68ccc316530a1e8ddc7fdad"
+    },
+    {
+      "path": "BOOTLOADER-V2-EN.md",
+      "sha256": "c7baee55c98e1d2e3691183349bfd0a7362e94938466226f078803dc3424a25b"
+    },
+    {
+      "path": "BOOTLOADER-V2-EN.md.sig",
+      "sha256": "5f1f96fc6ba95383db9bbdaf1b6e615e03ed0c972b585bce09e2ca8d03c8975f"
+    },
+    {
+      "path": "LLM-INIT-PROMPT.md.ots",
+      "sha256": "b8baab17f3d4e3887076407698e7b404e76f7145ffbe47ff3f83783d6d6efa88"
+    },
+    {
+      "path": "LLM-INIT-PROMPT.md.ots.sig",
+      "sha256": "290e2d0fb895ebc591191b0d9bb99b56dae72fe3dcc3767e9de2ae25ebc048a2"
+    },
+    {
+      "path": "MANIFEST.json.ots",
+      "sha256": "d18993193cb8769297ba6336ff57c3a46ace31b898d033fff5cd3f23a2259f74"
+    },
+    {
+      "path": "MANIFEST.json.ots.sig",
+      "sha256": "a420f299541438269b150413d068e786c0fa16e471c5dfaf0aa96f8b86ae5745"
+    },
+    {
+      "path": "README.md",
+      "sha256": "89c055037bd0f0a96f4db9467c1b80e1f1ad38c4e2c7b8f35c0eb3ff6884332f"
+    },
+    {
+      "path": "README.md.sig",
+      "sha256": "d2e7693ca48e1df18dcaca14688ea9a3b83a5cc0658d38fca7c933d41b70b64e"
+    },
+    {
+      "path": "ROOT.preimage.ots",
+      "sha256": "e33ddf10dfd69b459ec3a34b39651581e62c24b5bbffe7430d02c67eab564f07"
+    },
+    {
+      "path": "ROOT.preimage.ots.sig",
+      "sha256": "745c18e0e010ea4e9f73479f5a7217faacea63bad1fb799e48f380571970c455"
+    },
+    {
+      "path": "VERIFY-BITCOIN-ANCHOR.md",
+      "sha256": "118720f40fa06089d851c9d097be7a075cc064483d193e0ac51561dfdd3594af"
+    },
+    {
+      "path": "VERIFY-BITCOIN-ANCHOR.md.sig",
+      "sha256": "47fce2ed9b4838017cb14d78d9c3b8061d1864e4aaf7f4a46f294eb3559d8040"
+    },
+    {
+      "path": "ZERO-MNEMONICS.0s.ots",
+      "sha256": "73526e6a4f1c08411466242cdc6790599562e1b083edf2444ab77ae3e8e0bc5c"
+    },
+    {
+      "path": "ZERO-MNEMONICS.0s.ots.sig",
+      "sha256": "dff7fc40f73976ad4bf6cddae74849455f463c7580d3153143c952fc94b2c3a3"
+    },
+    {
+      "path": "test_verify_anchor.py",
+      "sha256": "a211a071b40f40ad1b83ad4a32dc072fd4a11ae2f501bf728b38cc083b95a2a2"
+    },
+    {
+      "path": "test_verify_anchor.py.sig",
+      "sha256": "4ddd6195ebedcdc1679edcf86578958d96f16008f41349c0f9624434c4f901a8"
+    },
+    {
+      "path": "verify-anchor.py",
+      "sha256": "c4bc1124e48ab0054cc98e2caada54ce185c4e2b5169398972ced25ef17e202a"
+    },
+    {
+      "path": "verify-anchor.py.sig",
+      "sha256": "79d9b10f9c7c36149077731a5ce176cc3adda54151e4d3967f857cf5c52ef99e"
+    },
+    {
+      "path": "verify-anchor.sh",
+      "sha256": "a868d6cd575cd1d87622175b3213f6981afb468f81575aab7a8a6259c4f200db"
+    },
+    {
+      "path": "verify-anchor.sh.sig",
+      "sha256": "28c8300215936aa256ffc5d7c3a5e35a914e7a6e878fb4bf24cd4ec1c8484e68"
+    }
+  ],
+  "hash_algorithm": "sha256",
+  "mode": "signed-only-no-anchor",
+  "name": "ai0S-public-v2",
+  "parent_anchor": "ai0S@sha256:b3aeee619d9cb691cc6618466407d56598e830c53c6d024748d4582887c57d13",
+  "schema": "ai0s.dla.manifest.v1",
+  "signer_ed25519_fingerprint": "9F4D9A266D720FE6336574D87B410637560297CF"
+}

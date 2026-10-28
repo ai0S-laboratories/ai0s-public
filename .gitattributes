@@ -1,0 +1,11 @@
+# Prevent GitHub Linguist from misclassifying PGP signatures (.sig / .asc) or .0s files as "Standard ML"
+*.sig linguist-generated=true
+*.asc linguist-generated=true
+*.tsq linguist-generated=true
+*.tsr linguist-generated=true
+*.ots linguist-generated=true
+*.preimage linguist-generated=true
+*.0s linguist-documentation=true
+*.md linguist-documentation=false
+*.py linguist-detectable=true
+*.html linguist-detectable=true
